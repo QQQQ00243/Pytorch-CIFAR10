@@ -1,0 +1,5 @@
+./imgs/
+ckpts/
+logs/
+data/
+__pycache__
